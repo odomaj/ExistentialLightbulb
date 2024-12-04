@@ -1,0 +1,2 @@
+main: ../src/main.cpp ../src/bulb/BulbConfig.h ../src/bulb/BulbConfig.cpp ../src/graph/graph.h ../src/graph/graph.cpp ../src/graph/node.h ../src/graph/node.cpp ../src/io/IO.h ../src/io/IO.cpp ../src/solver/BulbSolver.h ../src/solver/BulbSolver.cpp
+	g++ -std=c++11 ../src/main.cpp ../src/bulb/BulbConfig.cpp ../src/graph/graph.cpp ../src/graph/node.cpp ../src/io/IO.cpp ../src/solver/BulbSolver.cpp -o bulbsolver

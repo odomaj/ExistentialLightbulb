@@ -1,0 +1,2 @@
+problem has no valid configuration
+switch 1 causes downstream effects to other bulbs when either on or off
